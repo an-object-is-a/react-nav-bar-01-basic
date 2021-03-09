@@ -1,4 +1,4 @@
-# React Navigation Bar - Basic Swipe
+# React Navigation Bar - Basic
 
 ```
 >> npm install
